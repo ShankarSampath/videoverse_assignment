@@ -1,0 +1,6 @@
+BASE_URL = 'https://uat.magnifi.ai/login'
+start_time = '00:00:10:720'
+end_time   = '00:00:15:720'
+download_confirmation = 'Download started'
+user_name = 'TestUser1@mailinator.com'
+password = 'Test@123'
